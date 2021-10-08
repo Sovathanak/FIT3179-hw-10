@@ -1,0 +1,427 @@
+Entity,Year,Population Growth Rate
+Africa,1950,1.971
+Africa,1951,2.001
+Africa,1952,2.059
+Africa,1953,2.109
+Africa,1954,2.154
+Africa,1955,2.195
+Africa,1956,2.233
+Africa,1957,2.269
+Africa,1958,2.305
+Africa,1959,2.34
+Africa,1960,2.373
+Africa,1961,2.405
+Africa,1962,2.433
+Africa,1963,2.456
+Africa,1964,2.475
+Africa,1965,2.493
+Africa,1966,2.51
+Africa,1967,2.528
+Africa,1968,2.546
+Africa,1969,2.564
+Africa,1970,2.582
+Africa,1971,2.599
+Africa,1972,2.619
+Africa,1973,2.646
+Africa,1974,2.679
+Africa,1975,2.712
+Africa,1976,2.742
+Africa,1977,2.768
+Africa,1978,2.789
+Africa,1979,2.804
+Africa,1980,2.814
+Africa,1981,2.821
+Africa,1982,2.824
+Africa,1983,2.826
+Africa,1984,2.826
+Africa,1985,2.823
+Africa,1986,2.817
+Africa,1987,2.801
+Africa,1988,2.772
+Africa,1989,2.731
+Africa,1990,2.684
+Africa,1991,2.639
+Africa,1992,2.598
+Africa,1993,2.562
+Africa,1994,2.531
+Africa,1995,2.504
+Africa,1996,2.48
+Africa,1997,2.459
+Africa,1998,2.445
+Africa,1999,2.435
+Africa,2000,2.429
+Africa,2001,2.426
+Africa,2002,2.428
+Africa,2003,2.438
+Africa,2004,2.456
+Africa,2005,2.475
+Africa,2006,2.495
+Africa,2007,2.513
+Africa,2008,2.532
+Africa,2009,2.55
+Africa,2010,2.567
+Africa,2011,2.58
+Africa,2012,2.587
+Africa,2013,2.586
+Africa,2014,2.577
+Africa,2015,2.563
+Africa,2016,2.547
+Africa,2017,2.527
+Africa,2018,2.502
+Africa,2019,2.472
+Africa,2020,2.44
+Asia,1950,2.176
+Asia,1951,2.088
+Asia,1952,1.949
+Asia,1953,1.874
+Asia,1954,1.846
+Asia,1955,1.851
+Asia,1956,1.875
+Asia,1957,1.907
+Asia,1958,1.937
+Asia,1959,1.961
+Asia,1960,1.983
+Asia,1961,2.011
+Asia,1962,2.058
+Asia,1963,2.131
+Asia,1964,2.226
+Asia,1965,2.328
+Asia,1966,2.419
+Asia,1967,2.48
+Asia,1968,2.495
+Asia,1969,2.469
+Asia,1970,2.422
+Asia,1971,2.373
+Asia,1972,2.321
+Asia,1973,2.255
+Asia,1974,2.181
+Asia,1975,2.102
+Asia,1976,2.026
+Asia,1977,1.966
+Asia,1978,1.933
+Asia,1979,1.926
+Asia,1980,1.929
+Asia,1981,1.93
+Asia,1982,1.935
+Asia,1983,1.952
+Asia,1984,1.979
+Asia,1985,2.012
+Asia,1986,2.04
+Asia,1987,2.04
+Asia,1988,1.996
+Asia,1989,1.909
+Asia,1990,1.802
+Asia,1991,1.698
+Asia,1992,1.608
+Asia,1993,1.54
+Asia,1994,1.494
+Asia,1995,1.459
+Asia,1996,1.424
+Asia,1997,1.389
+Asia,1998,1.355
+Asia,1999,1.322
+Asia,2000,1.29
+Asia,2001,1.262
+Asia,2002,1.236
+Asia,2003,1.214
+Asia,2004,1.194
+Asia,2005,1.176
+Asia,2006,1.158
+Asia,2007,1.141
+Asia,2008,1.123
+Asia,2009,1.105
+Asia,2010,1.087
+Asia,2011,1.068
+Asia,2012,1.048
+Asia,2013,1.027
+Asia,2014,1.004
+Asia,2015,0.98
+Asia,2016,0.956
+Asia,2017,0.93
+Asia,2018,0.903
+Asia,2019,0.874
+Asia,2020,0.844
+Europe,1950,0.905
+Europe,1951,0.935
+Europe,1952,0.979
+Europe,1953,0.997
+Europe,1954,0.998
+Europe,1955,0.989
+Europe,1956,0.976
+Europe,1957,0.967
+Europe,1958,0.965
+Europe,1959,0.973
+Europe,1960,0.984
+Europe,1961,0.992
+Europe,1962,0.983
+Europe,1963,0.949
+Europe,1964,0.891
+Europe,1965,0.819
+Europe,1966,0.748
+Europe,1967,0.689
+Europe,1968,0.651
+Europe,1969,0.634
+Europe,1970,0.629
+Europe,1971,0.624
+Europe,1972,0.613
+Europe,1973,0.595
+Europe,1974,0.571
+Europe,1975,0.544
+Europe,1976,0.519
+Europe,1977,0.496
+Europe,1978,0.475
+Europe,1979,0.455
+Europe,1980,0.435
+Europe,1981,0.414
+Europe,1982,0.397
+Europe,1983,0.39
+Europe,1984,0.391
+Europe,1985,0.397
+Europe,1986,0.401
+Europe,1987,0.395
+Europe,1988,0.373
+Europe,1989,0.334
+Europe,1990,0.289
+Europe,1991,0.244
+Europe,1992,0.199
+Europe,1993,0.147
+Europe,1994,0.092
+Europe,1995,0.034
+Europe,1996,-0.022
+Europe,1997,-0.06
+Europe,1998,-0.066
+Europe,1999,-0.04
+Europe,2000,0.005
+Europe,2001,0.052
+Europe,2002,0.094
+Europe,2003,0.126
+Europe,2004,0.148
+Europe,2005,0.164
+Europe,2006,0.181
+Europe,2007,0.196
+Europe,2008,0.203
+Europe,2009,0.204
+Europe,2010,0.199
+Europe,2011,0.191
+Europe,2012,0.182
+Europe,2013,0.175
+Europe,2014,0.17
+Europe,2015,0.165
+Europe,2016,0.158
+Europe,2017,0.144
+Europe,2018,0.118
+Europe,2019,0.081
+Europe,2020,0.038
+Northern America,1950,1.389
+Northern America,1951,1.477
+Northern America,1952,1.629
+Northern America,1953,1.734
+Northern America,1954,1.797
+Northern America,1955,1.825
+Northern America,1956,1.822
+Northern America,1957,1.795
+Northern America,1958,1.747
+Northern America,1959,1.684
+Northern America,1960,1.61
+Northern America,1961,1.527
+Northern America,1962,1.44
+Northern America,1963,1.353
+Northern America,1964,1.267
+Northern America,1965,1.181
+Northern America,1966,1.098
+Northern America,1967,1.029
+Northern America,1968,0.984
+Northern America,1969,0.964
+Northern America,1970,0.958
+Northern America,1971,0.956
+Northern America,1972,0.953
+Northern America,1973,0.951
+Northern America,1974,0.948
+Northern America,1975,0.946
+Northern America,1976,0.947
+Northern America,1977,0.949
+Northern America,1978,0.949
+Northern America,1979,0.948
+Northern America,1980,0.946
+Northern America,1981,0.945
+Northern America,1982,0.946
+Northern America,1983,0.95
+Northern America,1984,0.956
+Northern America,1985,0.965
+Northern America,1986,0.975
+Northern America,1987,0.983
+Northern America,1988,0.988
+Northern America,1989,0.99
+Northern America,1990,0.987
+Northern America,1991,0.983
+Northern America,1992,0.99
+Northern America,1993,1.021
+Northern America,1994,1.072
+Northern America,1995,1.136
+Northern America,1996,1.196
+Northern America,1997,1.228
+Northern America,1998,1.211
+Northern America,1999,1.15
+Northern America,2000,1.063
+Northern America,2001,0.976
+Northern America,2002,0.913
+Northern America,2003,0.889
+Northern America,2004,0.903
+Northern America,2005,0.936
+Northern America,2006,0.966
+Northern America,2007,0.978
+Northern America,2008,0.967
+Northern America,2009,0.931
+Northern America,2010,0.884
+Northern America,2011,0.839
+Northern America,2012,0.798
+Northern America,2013,0.763
+Northern America,2014,0.735
+Northern America,2015,0.709
+Northern America,2016,0.683
+Northern America,2017,0.659
+Northern America,2018,0.639
+Northern America,2019,0.624
+Northern America,2020,0.611
+Oceania,1950,2.209
+Oceania,1951,2.137
+Oceania,1952,2.038
+Oceania,1953,2.014
+Oceania,1954,2.039
+Oceania,1955,2.087
+Oceania,1956,2.136
+Oceania,1957,2.168
+Oceania,1958,2.168
+Oceania,1959,2.136
+Oceania,1960,2.083
+Oceania,1961,2.032
+Oceania,1962,2.014
+Oceania,1963,2.05
+Oceania,1964,2.135
+Oceania,1965,2.241
+Oceania,1966,2.333
+Oceania,1967,2.37
+Oceania,1968,2.324
+Oceania,1969,2.202
+Oceania,1970,2.047
+Oceania,1971,1.901
+Oceania,1972,1.769
+Oceania,1973,1.649
+Oceania,1974,1.544
+Oceania,1975,1.446
+Oceania,1976,1.352
+Oceania,1977,1.293
+Oceania,1978,1.295
+Oceania,1979,1.354
+Oceania,1980,1.443
+Oceania,1981,1.533
+Oceania,1982,1.604
+Oceania,1983,1.647
+Oceania,1984,1.662
+Oceania,1985,1.663
+Oceania,1986,1.663
+Oceania,1987,1.658
+Oceania,1988,1.639
+Oceania,1989,1.608
+Oceania,1990,1.57
+Oceania,1991,1.532
+Oceania,1992,1.494
+Oceania,1993,1.457
+Oceania,1994,1.421
+Oceania,1995,1.389
+Oceania,1996,1.363
+Oceania,1997,1.343
+Oceania,1998,1.327
+Oceania,1999,1.318
+Oceania,2000,1.31
+Oceania,2001,1.303
+Oceania,2002,1.323
+Oceania,2003,1.392
+Oceania,2004,1.505
+Oceania,2005,1.639
+Oceania,2006,1.765
+Oceania,2007,1.848
+Oceania,2008,1.862
+Oceania,2009,1.811
+Oceania,2010,1.727
+Oceania,2011,1.643
+Oceania,2012,1.572
+Oceania,2013,1.517
+Oceania,2014,1.481
+Oceania,2015,1.452
+Oceania,2016,1.419
+Oceania,2017,1.384
+Oceania,2018,1.349
+Oceania,2019,1.314
+Oceania,2020,1.279
+South America,1950,2.679
+South America,1951,2.686
+South America,1952,2.694
+South America,1953,2.691
+South America,1954,2.683
+South America,1955,2.673
+South America,1956,2.665
+South America,1957,2.662
+South America,1958,2.665
+South America,1959,2.673
+South America,1960,2.683
+South America,1961,2.688
+South America,1962,2.682
+South America,1963,2.659
+South America,1964,2.62
+South America,1965,2.575
+South America,1966,2.53
+South America,1967,2.486
+South America,1968,2.44
+South America,1969,2.394
+South America,1970,2.347
+South America,1971,2.303
+South America,1972,2.267
+South America,1973,2.247
+South America,1974,2.24
+South America,1975,2.24
+South America,1976,2.238
+South America,1977,2.234
+South America,1978,2.229
+South America,1979,2.222
+South America,1980,2.213
+South America,1981,2.202
+South America,1982,2.184
+South America,1983,2.154
+South America,1984,2.113
+South America,1985,2.065
+South America,1986,2.017
+South America,1987,1.971
+South America,1988,1.927
+South America,1989,1.885
+South America,1990,1.843
+South America,1991,1.8
+South America,1992,1.759
+South America,1993,1.722
+South America,1994,1.688
+South America,1995,1.657
+South America,1996,1.624
+South America,1997,1.587
+South America,1998,1.541
+South America,1999,1.488
+South America,2000,1.431
+South America,2001,1.376
+South America,2002,1.323
+South America,2003,1.273
+South America,2004,1.225
+South America,2005,1.178
+South America,2006,1.133
+South America,2007,1.094
+South America,2008,1.064
+South America,2009,1.043
+South America,2010,1.028
+South America,2011,1.013
+South America,2012,0.997
+South America,2013,0.978
+South America,2014,0.955
+South America,2015,0.93
+South America,2016,0.906
+South America,2017,0.883
+South America,2018,0.861
+South America,2019,0.84
+South America,2020,0.82
