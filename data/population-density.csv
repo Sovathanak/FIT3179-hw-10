@@ -1,4 +1,4 @@
-Entity,Code,Year,Population Density ((HYDE) and UN Population Division (2008 Revision))
+Entity,Code,Year,Density
 Afghanistan,AFG,-10000,0.023106765
 Afghanistan,AFG,-5000,0.117593934
 Afghanistan,AFG,0,3.135838241
@@ -419,7 +419,7 @@ Armenia,ARM,2085,63.57439838
 Armenia,ARM,2090,57.55730158
 Armenia,ARM,2095,51.75219782
 Armenia,ARM,2100,46.2129036
-Aruba,ABW,-10000,4.24e-8
+Aruba,ABW,-10000,4.24E-08
 Aruba,ABW,-5000,0.00000136
 Aruba,ABW,0,0.0000434
 Aruba,ABW,500,0.001389446
@@ -1217,7 +1217,7 @@ British Indian Ocean Territory,IOT,2085,16.66666667
 British Indian Ocean Territory,IOT,2090,16.66666667
 British Indian Ocean Territory,IOT,2095,16.66666667
 British Indian Ocean Territory,IOT,2100,16.66666667
-British Virgin Islands,VGB,-10000,1.08e-7
+British Virgin Islands,VGB,-10000,1.08E-07
 British Virgin Islands,VGB,-5000,0.00000346
 British Virgin Islands,VGB,0,0.000110861
 British Virgin Islands,VGB,500,0.00354755
@@ -2183,8 +2183,8 @@ Croatia,HRV,2085,53.33716305
 Croatia,HRV,2090,51.30485065
 Croatia,HRV,2095,49.30700237
 Croatia,HRV,2100,47.34568063
-Cuba,CUB,-10000,6.93e-9
-Cuba,CUB,-5000,2.22e-7
+Cuba,CUB,-10000,6.93E-09
+Cuba,CUB,-5000,2.22E-07
 Cuba,CUB,0,0.0000071
 Cuba,CUB,500,0.000227179
 Cuba,CUB,1000,0.007269732
@@ -2899,9 +2899,9 @@ Faeroe Islands,FRO,2095,49.71140529
 Faeroe Islands,FRO,2100,49.55423664
 Falkland Islands,FLK,-10000,0
 Falkland Islands,FLK,-5000,0
-Falkland Islands,FLK,0,1.29e-19
-Falkland Islands,FLK,500,2.08e-14
-Falkland Islands,FLK,1000,3.35e-9
+Falkland Islands,FLK,0,1.29E-19
+Falkland Islands,FLK,500,2.08E-14
+Falkland Islands,FLK,1000,3.35E-09
 Falkland Islands,FLK,1500,0.000540324
 Falkland Islands,FLK,1700,0.065379188
 Falkland Islands,FLK,1750,0.096941565
@@ -4283,7 +4283,7 @@ Italy,ITA,2085,159.4603513
 Italy,ITA,2090,153.7849994
 Italy,ITA,2095,147.9415729
 Italy,ITA,2100,141.9648877
-Jamaica,JAM,-10000,4.86e-8
+Jamaica,JAM,-10000,4.86E-08
 Jamaica,JAM,-5000,0.00000156
 Jamaica,JAM,0,0.0000498
 Jamaica,JAM,500,0.001592331
@@ -5333,7 +5333,7 @@ Marshall Islands,MHL,2085,350.0856556
 Marshall Islands,MHL,2090,311.5822696
 Marshall Islands,MHL,2095,272.9573809
 Marshall Islands,MHL,2100,235.352486
-Martinique,MTQ,-10000,1.41e-7
+Martinique,MTQ,-10000,1.41E-07
 Martinique,MTQ,-5000,0.00000451
 Martinique,MTQ,0,0.000144464
 Martinique,MTQ,500,0.004622841
@@ -5711,7 +5711,7 @@ Montenegro,MNE,2085,42.47437743
 Montenegro,MNE,2090,42.15599212
 Montenegro,MNE,2095,41.83999341
 Montenegro,MNE,2100,41.52636341
-Montserrat,MSR,-10000,2.87e-7
+Montserrat,MSR,-10000,2.87E-07
 Montserrat,MSR,-5000,0.00000917
 Montserrat,MSR,0,0.000293436
 Montserrat,MSR,500,0.009389953
@@ -6047,7 +6047,7 @@ Netherlands,NLD,2085,467.4004073
 Netherlands,NLD,2090,461.6613203
 Netherlands,NLD,2095,455.4353909
 Netherlands,NLD,2100,448.7441662
-Netherlands Antilles,ANT,-10000,9.15e-8
+Netherlands Antilles,ANT,-10000,9.15E-08
 Netherlands Antilles,ANT,-5000,0.00000293
 Netherlands Antilles,ANT,0,0.0000937
 Netherlands Antilles,ANT,500,0.002998371
@@ -7307,7 +7307,7 @@ Saint Helena,SHN,2085,24.55783878
 Saint Helena,SHN,2090,23.78473322
 Saint Helena,SHN,2095,22.91829574
 Saint Helena,SHN,2100,21.97050135
-Saint Kitts and Nevis,KNA,-10000,2.95e-7
+Saint Kitts and Nevis,KNA,-10000,2.95E-07
 Saint Kitts and Nevis,KNA,-5000,0.00000945
 Saint Kitts and Nevis,KNA,0,0.000302453
 Saint Kitts and Nevis,KNA,500,0.009678503
@@ -7391,7 +7391,7 @@ Saint Lucia,LCA,2085,316.6868295
 Saint Lucia,LCA,2090,304.2144572
 Saint Lucia,LCA,2095,290.4066595
 Saint Lucia,LCA,2100,275.4905773
-Saint Pierre and Miquelon,SPM,-10000,6.4e-8
+Saint Pierre and Miquelon,SPM,-10000,6.40E-08
 Saint Pierre and Miquelon,SPM,-5000,0.00000205
 Saint Pierre and Miquelon,SPM,0,0.0000655
 Saint Pierre and Miquelon,SPM,500,0.002095778
@@ -7433,7 +7433,7 @@ Saint Pierre and Miquelon,SPM,2085,29.58336665
 Saint Pierre and Miquelon,SPM,2090,29.59710017
 Saint Pierre and Miquelon,SPM,2095,29.61084006
 Saint Pierre and Miquelon,SPM,2100,29.62458633
-Saint Vincent and the Grenadines,VCT,-10000,3.96e-7
+Saint Vincent and the Grenadines,VCT,-10000,3.96E-07
 Saint Vincent and the Grenadines,VCT,-5000,0.0000127
 Saint Vincent and the Grenadines,VCT,0,0.000405597
 Saint Vincent and the Grenadines,VCT,500,0.01297909
@@ -8273,7 +8273,7 @@ Suriname,SUR,2085,4.815233758
 Suriname,SUR,2090,4.769388585
 Suriname,SUR,2095,4.691739693
 Suriname,SUR,2100,4.583813062
-Svalbard and Jan Mayen,SJM,-10000,4.12e-8
+Svalbard and Jan Mayen,SJM,-10000,4.12E-08
 Svalbard and Jan Mayen,SJM,-5000,0.00000132
 Svalbard and Jan Mayen,SJM,0,0.0000422
 Svalbard and Jan Mayen,SJM,500,0.0000467
@@ -8777,9 +8777,9 @@ Tonga,TON,2085,261.7791233
 Tonga,TON,2090,249.561533
 Tonga,TON,2095,236.3311866
 Tonga,TON,2100,222.3111806
-Trinidad and Tobago,TTO,-10000,6.49e-10
-Trinidad and Tobago,TTO,-5000,2.08e-8
-Trinidad and Tobago,TTO,0,6.64e-7
+Trinidad and Tobago,TTO,-10000,6.49E-10
+Trinidad and Tobago,TTO,-5000,2.08E-08
+Trinidad and Tobago,TTO,0,6.64E-07
 Trinidad and Tobago,TTO,500,0.0000213
 Trinidad and Tobago,TTO,1000,0.000680365
 Trinidad and Tobago,TTO,1500,0.021771674
@@ -8945,8 +8945,8 @@ Turkmenistan,TKM,2085,12.44945381
 Turkmenistan,TKM,2090,11.91616048
 Turkmenistan,TKM,2095,11.3277476
 Turkmenistan,TKM,2100,10.69468179
-Turks and Caicos Islands,TCA,-10000,1.1e-8
-Turks and Caicos Islands,TCA,-5000,3.52e-7
+Turks and Caicos Islands,TCA,-10000,1.10E-08
+Turks and Caicos Islands,TCA,-5000,3.52E-07
 Turks and Caicos Islands,TCA,0,0.0000115
 Turks and Caicos Islands,TCA,500,0.000368794
 Turks and Caicos Islands,TCA,1000,0.011801394
@@ -9239,7 +9239,7 @@ United States,USA,2085,38.79751056
 United States,USA,2090,37.97110012
 United States,USA,2095,37.14404943
 United States,USA,2100,36.31717384
-United States Virgin Islands,VIR,-10000,3.87e-7
+United States Virgin Islands,VIR,-10000,3.87E-07
 United States Virgin Islands,VIR,-5000,0.0000124
 United States Virgin Islands,VIR,0,0.000396595
 United States Virgin Islands,VIR,500,0.012691049
@@ -9575,8 +9575,8 @@ Wallis and Futuna,WLF,2085,169.208157
 Wallis and Futuna,WLF,2090,160.6083116
 Wallis and Futuna,WLF,2095,151.2406733
 Wallis and Futuna,WLF,2100,141.2920004
-Western Sahara,ESH,-10000,5.96e-8
-Western Sahara,ESH,-5000,4.53e-7
+Western Sahara,ESH,-10000,5.96E-08
+Western Sahara,ESH,-5000,4.53E-07
 Western Sahara,ESH,0,0.00000344
 Western Sahara,ESH,500,0.0000261
 Western Sahara,ESH,1000,0.000198344
