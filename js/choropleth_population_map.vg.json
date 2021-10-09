@@ -71,9 +71,8 @@
     },
     "tooltip": [
       {"field": "Entity", "type": "nominal", "title": "Country"},
-      {"field": "Population", "type": "quantitative", "format": ","},
-      {"field": "Year", "type": "quantitative", "title":"Year"}
-    ]
+      {"field": "Population", "type": "quantitative", "format": ","}
+          ]
   }
   }
 ],
