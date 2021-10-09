@@ -1,0 +1,95 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 400,
+  "title": "Population Growth Rate (%) from 1950 to 2020",
+  "data": {
+  "url": "https://raw.githubusercontent.com/Sovathanak/FIT3179-hw-10/master/data/grow_continent.csv"
+  },
+  "encoding":{
+    "x":{
+      "field":"Year", "type": "temporal"
+    }
+  },
+  "layer":[{
+    "encoding": {
+      "color":{
+        "field":"Entity", "type":"nominal", "title":"Continents"
+      },
+      "y":{
+        "field": "Population_Growth_Rate", "type":"quantitative", "title": "Population Growth %"
+      }
+    },
+    "layer": [
+      {
+        "mark":"line"
+      },
+      {
+        "transform": [
+          {
+            "filter":{"param":"hover", "empty": false}
+          }
+        ],
+        "mark":"line"
+      }
+       ]
+     },
+     {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -90,
+      "dy": 160
+    },
+    "encoding": {
+      "text": {
+        "field": "Year",
+        "condition": {
+          "test": "datum.Population_Growth_Rate == -0.066",
+          "value": [
+            "Europe reached global lowest population growth rate",
+            "over the course of 70 years at -0.066%"
+          ]
+        }
+      },
+      "opacity": {
+        "condition": {
+          "test": "datum.Population_Growth_Rate == -0.066",
+          "value": 1
+        },
+        "value": 0
+      }
+    }
+  },
+     {
+       "transform": [{"pivot": "Entity", "value": "Population_Growth_Rate", "groupby": ["Year"]}],
+       "mark": "rule",
+       "encoding": {
+         "opacity": {
+           "condition": {"value": 0.3, "param": "hover", "empty": false},
+           "value": 0
+         },
+         "tooltip": [
+           {"field": "Africa", "type": "quantitative"},
+           {"field": "Asia", "type": "quantitative"},
+           {"field": "Europe", "type": "quantitative"},
+           {"field": "Northern America", "type": "quantitative"},
+           {"field": "Oceania", "type": "quantitative"},
+           {"field": "South America", "type": "quantitative"}
+         ]
+       },
+       "params": [{
+         "name": "hover",
+         "select": {
+           "type": "point",
+           "fields": ["Year"],
+           "nearest": true,
+           "on": "mouseover",
+           "clear": "mouseout"
+         }
+       }]
+     }
+   ]
+ }
+ 
