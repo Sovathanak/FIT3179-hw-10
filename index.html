@@ -8,20 +8,30 @@
 
     <!-- CSS file -->
     <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
-    <title>Population density by country</title>
+    <title>Visualization</title>
 
 </head>
 
 <body>
-<h2>Population density by country</h2>
+<h2>Population by country from 1950 to 2019</h2>
     <div id="chloropleth_map"></div>
 
     <script type="text/javascript">
-        var data_location = "https://media.githubusercontent.com/media/Sovathanak/FIT3179-hw-9/master/data/population_by_country_2020.csv"
-
-        var spec2 = "js/choropleth_density_map.vg.json"
+        var spec2 = "js/choropleth_population_map.vg.json"
 
         vegaEmbed('#chloropleth_map', spec2).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+    </script>
+
+
+<h2>Child birth vs Child mortality from 1950 to 2019</h2>
+    <div id="chloropleth_map"></div>
+
+    <script type="text/javascript">
+        var spec2 = "js/bubble_chart.vg.json"
+
+        vegaEmbed('#bubble_chart', spec2).then(function(result) {
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
     </script>
