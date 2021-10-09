@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 600,
   "height": 400,
-  "title": "Population Growth Rate (%) from 1950 to 2020",
+  "title": "",
   "data": {
   "url": "https://raw.githubusercontent.com/Sovathanak/FIT3179-hw-10/master/data/grow_continent.csv"
   },

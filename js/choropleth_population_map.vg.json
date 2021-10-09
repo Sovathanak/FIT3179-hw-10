@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Total population by country from 1950 to 2020",
+  "title": "",
   "width": 800,
   "height": 500,
   "params":[
