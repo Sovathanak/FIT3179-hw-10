@@ -13690,100 +13690,77 @@ United Kingdom,GBR,2017,66727463
 United Kingdom,GBR,2018,67141678
 United Kingdom,GBR,2019,67530161
 United Kingdom,GBR,2020,67886004
-United States,USA,1950,158804397
-United States,USA,1951,160872264
-United States,USA,1952,163266026
-United States,USA,1953,165909996
-United States,USA,1954,168736390
-United States,USA,1955,171685337
-United States,USA,1956,174705006
-United States,USA,1957,177751477
-United States,USA,1958,180788387
-United States,USA,1959,183786249
-United States,USA,1960,186720570
-United States,USA,1961,189569850
-United States,USA,1962,192313747
-United States,USA,1963,194932400
-United States,USA,1964,197408497
-United States,USA,1965,199733679
-United States,USA,1966,201895760
-United States,USA,1967,203905081
-United States,USA,1968,205805756
-United States,USA,1969,207659274
-United States,USA,1970,209513340
-United States,USA,1971,211384079
-United States,USA,1972,213269805
-United States,USA,1973,215178797
-United States,USA,1974,217114898
-United States,USA,1975,219081250
-United States,USA,1976,221086427
-United States,USA,1977,223135659
-United States,USA,1978,225223307
-United States,USA,1979,227339321
-United States,USA,1980,229476360
-United States,USA,1981,231636065
-United States,USA,1982,233821851
-United States,USA,1983,236030236
-United States,USA,1984,238256849
-United States,USA,1985,240499822
-United States,USA,1986,242763137
-United States,USA,1987,245052780
-United States,USA,1988,247372258
-United States,USA,1989,249725809
-United States,USA,1990,252120309
-United States,USA,1991,254539371
-United States,USA,1992,256990608
-United States,USA,1993,259532130
-United States,USA,1994,262241204
-United States,USA,1995,265163741
-United States,USA,1996,268335008
-United States,USA,1997,271713634
-United States,USA,1998,275175309
-United States,USA,1999,278548148
-United States,USA,2000,281710914
-United States,USA,2001,284607992
-United States,USA,2002,287279312
-United States,USA,2003,289815567
-United States,USA,2004,292354663
-United States,USA,2005,294993509
-United States,USA,2006,297758977
-United States,USA,2007,300608425
-United States,USA,2008,303486022
-United States,USA,2009,306307565
-United States,USA,2010,309011469
-United States,USA,2011,311584051
-United States,USA,2012,314043885
-United States,USA,2013,316400539
-United States,USA,2014,318673422
-United States,USA,2015,320878312
-United States,USA,2016,323015992
-United States,USA,2017,325084758
-United States,USA,2018,327096263
-United States,USA,2019,329064917
-United States,USA,2020,331002647
-United States Virgin Islands,VIR,1950,13186
-United States Virgin Islands,VIR,1960,16057
-United States Virgin Islands,VIR,1970,31531
-United States Virgin Islands,VIR,1980,48438
-United States Virgin Islands,VIR,1990,50815
-United States Virgin Islands,VIR,2000,53156
-United States Virgin Islands,VIR,2001,53183
-United States Virgin Islands,VIR,2002,53209
-United States Virgin Islands,VIR,2003,53236
-United States Virgin Islands,VIR,2004,53263
-United States Virgin Islands,VIR,2005,53289
-United States Virgin Islands,VIR,2006,53316
-United States Virgin Islands,VIR,2007,53343
-United States Virgin Islands,VIR,2008,53369
-United States Virgin Islands,VIR,2009,53396
-United States Virgin Islands,VIR,2010,53423
-United States Virgin Islands,VIR,2011,53675
-United States Virgin Islands,VIR,2012,53926
-United States Virgin Islands,VIR,2013,54178
-United States Virgin Islands,VIR,2014,54430
-United States Virgin Islands,VIR,2015,54681
-United States Virgin Islands,VIR,2016,54933
-United States Virgin Islands,VIR,2017,55185
+United States of America,USA,1950,158804397
+United States of America,USA,1951,160872264
+United States of America,USA,1952,163266026
+United States of America,USA,1953,165909996
+United States of America,USA,1954,168736390
+United States of America,USA,1955,171685337
+United States of America,USA,1956,174705006
+United States of America,USA,1957,177751477
+United States of America,USA,1958,180788387
+United States of America,USA,1959,183786249
+United States of America,USA,1960,186720570
+United States of America,USA,1961,189569850
+United States of America,USA,1962,192313747
+United States of America,USA,1963,194932400
+United States of America,USA,1964,197408497
+United States of America,USA,1965,199733679
+United States of America,USA,1966,201895760
+United States of America,USA,1967,203905081
+United States of America,USA,1968,205805756
+United States of America,USA,1969,207659274
+United States of America,USA,1970,209513340
+United States of America,USA,1971,211384079
+United States of America,USA,1972,213269805
+United States of America,USA,1973,215178797
+United States of America,USA,1974,217114898
+United States of America,USA,1975,219081250
+United States of America,USA,1976,221086427
+United States of America,USA,1977,223135659
+United States of America,USA,1978,225223307
+United States of America,USA,1979,227339321
+United States of America,USA,1980,229476360
+United States of America,USA,1981,231636065
+United States of America,USA,1982,233821851
+United States of America,USA,1983,236030236
+United States of America,USA,1984,238256849
+United States of America,USA,1985,240499822
+United States of America,USA,1986,242763137
+United States of America,USA,1987,245052780
+United States of America,USA,1988,247372258
+United States of America,USA,1989,249725809
+United States of America,USA,1990,252120309
+United States of America,USA,1991,254539371
+United States of America,USA,1992,256990608
+United States of America,USA,1993,259532130
+United States of America,USA,1994,262241204
+United States of America,USA,1995,265163741
+United States of America,USA,1996,268335008
+United States of America,USA,1997,271713634
+United States of America,USA,1998,275175309
+United States of America,USA,1999,278548148
+United States of America,USA,2000,281710914
+United States of America,USA,2001,284607992
+United States of America,USA,2002,287279312
+United States of America,USA,2003,289815567
+United States of America,USA,2004,292354663
+United States of America,USA,2005,294993509
+United States of America,USA,2006,297758977
+United States of America,USA,2007,300608425
+United States of America,USA,2008,303486022
+United States of America,USA,2009,306307565
+United States of America,USA,2010,309011469
+United States of America,USA,2011,311584051
+United States of America,USA,2012,314043885
+United States of America,USA,2013,316400539
+United States of America,USA,2014,318673422
+United States of America,USA,2015,320878312
+United States of America,USA,2016,323015992
+United States of America,USA,2017,325084758
+United States of America,USA,2018,327096263
+United States of America,USA,2019,329064917
+United States of America,USA,2020,331002647
 Uruguay,URY,1950,2238501
 Uruguay,URY,1951,2261340
 Uruguay,URY,1952,2286261
